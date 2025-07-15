@@ -1,17 +1,12 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+title: TASICI
+description: Transformative Adaptation Strategies for Interdependent Critical Infrastructure
+background:
+  img: https://images.unsplash.com/photo-1550089479-fe0e48e7d788?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGJpcmR8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=1200&h=600&q=80
+  by: Krzysztof Niewolny
+  href: https://unsplash.com/photos/pTfcnk9WZHA
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.3/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
-
-## Installation
-
-See the demo website for instructions:
-
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+Critical infrastructure systems are essential for society but face growing vulnerabilities due to increasing interdependencies and climate extremes like heatwaves, droughts, and heavy rainfall. The Dutch infrastructure sector must balance these challenges alongside resource constraints, asset renewal, and societal transitions like decarbonization. TASICI develops innovative tools and strategies to address cascading risks, prioritize adaptation investments, and foster cross-sector collaboration. Focusing on two key corridors—the Greater Amsterdam Metropolitan Area and the Rhine-Alpine Rail Corridor—the project integrates technical, climate, and organizational research. By collaborating with infrastructure operators and key stakeholders, TASICI aims to enhance resilience, reliability, and sustainable infrastructure transitions.
