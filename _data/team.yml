@@ -17,31 +17,39 @@
 
 - name: Elco Koks
   role: Project Leader
+  image: assets/theme/images/elco.jpg # Can be external link
   description: >
     Associate Professor at the Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam.  
-    
+  orcid: 0000-0002-4953-4527
+  github: elcok
+   
 - name: Fleur Deken
   role: WP Leader
+  image: assets/theme/images/fleur.jpg # Can be external link
   description: >
     Full Professor of Strategy, Technology & Innovation at the KIN Center for Digital Innovation, Vrije Universiteit Amsterdam.  
 
 - name: Jasper Verschuur
   role: WP Leader
+  image: assets/theme/images/jasper.jpg # Can be external link
   description: >
     Assistant Professor at TUD and Research Associate at the University of Oxford.
     
 - name: Anja Overdiek
   role: WP Leader
+  image: assets/theme/images/anja.jpg # Can be external link
   description: >
      Associate Professor at HHS and Professor of Cybersocial Design at Rotterdam University of Applied Sciences.
     
 - name: Kathleen Stephenson
   role: Project Member
+  image: assets/theme/images/kathleen.jpg # Can be external link
   description: >
     Assistant Professor at the Management & Organization department at the School of Business and Economics, Vrije Universiteit Amsterdam.  
     
 - name: Helene van Laar
   role: Project Manager
+  image: assets/theme/images/helene.jpg # Can be external link
   description: >
     Associate Professor at the Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam.  
     
