@@ -7,19 +7,14 @@ baseurl: "/tasici-project-website"     # Only required if your site is in a dire
 
 # SOCIAL PROFILES
 social:
-  email: name@example.com
-  bluesky: bluesky_username.bsky.social
-  mastodon: https://mastodon.social/@mastodon_username
-  twitter: twitter_username
+  email: elco.koks@vu.nl
   linkedin: https://linkedin.com/company/project_name/
-  facebook: https://facebook.com/groups/group_id/
-  github: github_username               # Can also be a github_username/repository
-  disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
+  github: elcok               # Can also be a github_username/repository
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 2                        # Show x number of latest posts on homepage, can be 0
 archive_permalink: /blog/               # Permalink of page using the archive.html layout, required when using post tags
-github_edit: true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
+github_edit: false                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
 colors:
   links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white

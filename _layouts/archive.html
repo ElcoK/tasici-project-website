@@ -11,9 +11,10 @@ description: Template for a list of posts as cards, with full width.
   </div>
 </div>
 
-<div class="row cards">
+<!-- Consistent 2-column layout, centered -->
+<div class="row cards justify-content-center">
   {% for item in site.posts %}
-    <div class="col-md-6 col-lg-4">
+    <div class="col-sm-12 col-md-6 col-lg-5 mb-4">
       {% include card.html %}
     </div>
   {% endfor %}
