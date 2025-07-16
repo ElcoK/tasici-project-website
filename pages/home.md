@@ -15,7 +15,7 @@ TASICI develops innovative tools and strategies to address cascading risks, prio
 ## Academic partners
 
 <div class="partner-section">
-<div class="row text-center py-4">
+<div class="row text-center py-4 justify-content-center">
   <div class="col-12 col-md-6 mb-4">
     <img src="assets/theme/images/ivm-vu.png" alt="IVM-VU" class="img-fluid" style="max-height: 80px;">
   </div>
@@ -34,7 +34,7 @@ TASICI develops innovative tools and strategies to address cascading risks, prio
 ## Infrastructure Partners
 
 <div class="partner-section">
-<div class="row text-center py-4">
+<div class="row text-center py-4 justify-content-center">
   <div class="col-6 col-md-4 col-lg-2 mb-4">
     <img src="assets/theme/images/prorail.png" alt="ProRail" class="img-fluid" style="max-height: 70px;">
   </div>
