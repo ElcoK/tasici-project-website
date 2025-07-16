@@ -63,10 +63,13 @@ h3 {
 .partner-section {
   display: flex;
   justify-content: center;
+  width: 100%;
 }
 
 .partner-section .row {
   max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 /* Navigation menu improvements - larger and bold */
