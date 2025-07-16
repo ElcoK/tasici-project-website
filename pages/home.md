@@ -14,6 +14,7 @@ TASICI develops innovative tools and strategies to address cascading risks, prio
 
 ## Academic partners
 
+<div class="partner-section">
 <div class="row text-center py-4">
   <div class="col-12 col-md-6 mb-4">
     <img src="assets/theme/images/ivm-vu.png" alt="IVM-VU" class="img-fluid" style="max-height: 80px;">
@@ -28,9 +29,11 @@ TASICI develops innovative tools and strategies to address cascading risks, prio
     <img src="assets/theme/images/hhs.png" alt="HHS" class="img-fluid" style="max-height: 80px;">
   </div>
 </div>
+</div>
 
 ## Infrastructure Partners
 
+<div class="partner-section">
 <div class="row text-center py-4">
   <div class="col-6 col-md-4 col-lg-2 mb-4">
     <img src="assets/theme/images/prorail.png" alt="ProRail" class="img-fluid" style="max-height: 70px;">
@@ -42,11 +45,12 @@ TASICI develops innovative tools and strategies to address cascading risks, prio
     <img src="assets/theme/images/schiphol.png" alt="Schiphol" class="img-fluid" style="max-height: 70px;">
   </div>
   <div class="col-6 col-md-4 col-lg-2 mb-4">
-    <img src="assets/theme/images/portdam.png" alt="Port of Rotterdam" class="img-fluid" style="max-height: 70px;">
+    <img src="assets/theme/images/portrdam.png" alt="Port of Rotterdam" class="img-fluid" style="max-height: 70px;">
   </div>
   <div class="col-6 col-md-4 col-lg-2 mb-4">
     <img src="assets/theme/images/vra.png" alt="VRA" class="img-fluid" style="max-height: 70px;">
   </div>
+</div>
 </div>
 
 ## Latest News
