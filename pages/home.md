@@ -16,16 +16,16 @@ TASICI develops innovative tools and strategies to address cascading risks, prio
 
 <div class="row text-center py-4">
   <div class="col-12 col-md-6 mb-4">
-    <img src="assets/images/ivm-vu.png" alt="Organization 1" class="img-fluid" style="max-height: 80px;">
+    <img src="assets/images/ivm-vu.png" alt="IVM-VU" class="img-fluid" style="max-height: 80px;">
   </div>
   <div class="col-12 col-md-6 mb-4">
-    <img src="assets/images/tudelft.png" alt="Organization 2" class="img-fluid" style="max-height: 80px;">
+    <img src="assets/images/tudelft.png" alt="TUD" class="img-fluid" style="max-height: 80px;">
   </div>
   <div class="col-12 col-md-6 mb-4">
-    <img src="assets/images/vu-sbe.png" alt="Organization 3" class="img-fluid" style="max-height: 80px;">
+    <img src="assets/images/vu-sbe.png" alt="VU-SBE" class="img-fluid" style="max-height: 80px;">
   </div>
   <div class="col-12 col-md-6 mb-4">
-    <img src="assets/images/hhs.png" alt="Organization 4" class="img-fluid" style="max-height: 80px;">
+    <img src="assets/images/hhs.png" alt="HHS" class="img-fluid" style="max-height: 80px;">
   </div>
 </div>
 
@@ -39,13 +39,13 @@ TASICI develops innovative tools and strategies to address cascading risks, prio
     <img src="assets/images/rws.png" alt="Rijkswaterstaat" class="img-fluid" style="max-height: 70px;">
   </div>
   <div class="col-6 col-md-4 col-lg-2 mb-4">
-    <img src="assets/images/schiphol.png" alt="Infrastructure Partner 3" class="img-fluid" style="max-height: 70px;">
+    <img src="assets/images/schiphol.png" alt="Schiphol" class="img-fluid" style="max-height: 70px;">
   </div>
   <div class="col-6 col-md-4 col-lg-2 mb-4">
-    <img src="assets/images/portdam.png" alt="Infrastructure Partner 4" class="img-fluid" style="max-height: 70px;">
+    <img src="assets/images/portdam.png" alt="Port of Rotterdam" class="img-fluid" style="max-height: 70px;">
   </div>
   <div class="col-6 col-md-4 col-lg-2 mb-4">
-    <img src="assets/images/vra.png" alt="Infrastructure Partner 5" class="img-fluid" style="max-height: 70px;">
+    <img src="assets/images/vra.png" alt="VRA" class="img-fluid" style="max-height: 70px;">
   </div>
 </div>
 
