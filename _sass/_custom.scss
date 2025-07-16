@@ -6,6 +6,14 @@
 /* Import Google Fonts for more interesting typography */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
 
+/* Font Variables - Professional but more interesting */
+:root {
+  --primary-font: 'Segoe UI', Roboto, sans-serif;
+  --heading-font: 'Segoe UI', Roboto, sans-serif;
+  --font-size-base: 1.1rem;
+  --line-height-base: 1.7;
+}
+
 /* Base typography improvements */
 body {
   font-family: var(--primary-font);
