@@ -29,6 +29,12 @@ p, .lead, .card-text, .content {
   text-justify: inter-word;
 }
 
+/* Keep hero/banner descriptions centered */
+.hero p, .hero .lead, .jumbotron p, .jumbotron .lead, 
+.header p, .header .lead, .banner p, .banner .lead {
+  text-align: center !important;
+}
+
 /* Headings with more elegant font */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
